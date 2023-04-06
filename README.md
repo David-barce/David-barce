@@ -6,7 +6,7 @@
 ### About me!
 
 - 🔭 I’m currently working as web and mobile developer
-- 🌱 I’m currently learning **React, GraphQL, PUG**
+- 🌱 I’m currently learning **React, GraphQL**
 
 
 <div align="left">
